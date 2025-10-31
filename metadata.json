@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo chứng chỉ hàng loạt",
+  "description": "Một ứng dụng web để tạo hàng loạt giấy chứng nhận tùy chỉnh. Tải lên mẫu của bạn, phông chữ tùy chỉnh, nhập danh sách tên và tải xuống tất cả các chứng chỉ dưới dạng tệp zip.",
+  "requestFramePermissions": []
+}
